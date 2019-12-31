@@ -13,7 +13,7 @@ import static org.springframework.web.reactive.function.BodyInserters.fromPublis
 import static org.springframework.web.reactive.function.server.ServerResponse.ok;
 
 
-@Component
+//@Component
 public class PlaylistHandler {
 
     @Autowired
